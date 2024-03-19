@@ -1,0 +1,200 @@
+Keyword: directors26 white 91 hispanic 0 asian 0 black 9 other28 0 operating committee white 83 hispanic 11 asian 6 black 0 other28 0 senior level employees25 white 75 hispanic 6 asian 12 black 5 other28 2 campus internship class39 white 35 ethnic40 65 promotional data global promotions3738 39 women 61 men us promotions3435 47 ethnic36 53 white additional data lgbtq30 military veterans31 people withdisabilities32 total employees 4 3 4 senior level employees 25 3 2 3 operating committee 6 0 0 board  ==>>  Score: 2791.7412
+Keyword: rounding 2022 176b green 204b development finance 102b community development 482btotal 70b green 87b development finance 40b community development 197btotal 229b cib investment banking 169b cib markets 54b ccb 30b cb 482btotal cumulative progress 2021 – 2022 annual progress 2022 progress toward 10year target 95b cib investment banking 68b cib markets 19b ccb 14b cb 197btotal  ==>>  Score: 1529.2522
+Keyword: region 2021 b 2022 b total b east asia pacifc 38 16 54 south asia 5 2 8 latin america caribbean 36 19 55 eastern europe central asia 15 18 32 subsaharan africa 8 4 12 middle east north africa 2 0 2 global development institutions 13 28 40 development finance total 117 87 204  ==>>  Score: 1346.7815
+Keyword: biodiversity 2022 esg report p 12 22 – 23 70 – 71 gri 305 emissions 2016 33 management approach 2022 esg report p 18 – 21 3051 direct scope 1 ghg emissions 2022 esg report p 18 – 21 environmental data 3052 energy indirect scope 2 ghg emissions 2022 esg report p 18 – 21 environmental data indicator disclosure title source 3053  ==>>  Score: 1218.7236
+Keyword: directors26 women 36 men 64 operating committee women 39 men 61 senior level employees25 women 27 men 73 campus internship class41 women 47 men 53 us raceethnicity data27 total employees white 44 hispanic 21 asian 18 black 14 other28 3 board  ==>>  Score: 1016.4827
+Keyword: carbon transition cdfi community development financial institutions ceo chief executive ofcer cfc national rural utilities cooperative finance corporation cfo chief financial ofcer cib corporate investment bank cic climate impact contribution cio chief investment ofce cmdc compensation management development committee co2 carbon dioxide cro chief risk ofcer dei diversity equity inclusion dfsa development finance structuring agent es environmental  ==>>  Score: 955.7676
+Keyword: india expanding onsite solar previously installed9 installed planned retail solar program capacity mw 0441102157 376155 2019 2020 2021 2022 commercial solar program capacity mw 64136290419 427928 165 3238 2018 2019 2020 2021 2022226 136166 323629 9 cumulative capacity installed  ==>>  Score: 780.3454
+Keyword: public policy statement indicator disclosure title source financial services sector supplement 2008 product portfolio 33 management approach 2022 esg report p 6 – 10 12 – 17 30 – 49 70 – 71 human rights impact fs1 policies  ==>>  Score: 648.2012
+Keyword: n rights statement modern slavery act statement 2023 proxy statement weblinks indicator disclosure title source gri 2 general disclosures 2021 21 organizational details 2022 form 10k p 1 33 20 22 esg report p 3 – 4  ==>>  Score: 613.2519
+Keyword: disadvan taged people 2022 esg report p 6 – 10 25 – 29 40 – 42 44 – 49 impact gri 415 public policy 2016 33 management approach 2022 esg report p 55 political engagement  ==>>  Score: 603.5947
+Keyword: services supported 2022 esg report p 24 – 29 30 – 37 impact 2032 signifcant indirect economic impacts 2022 esg report p 24 – 29 30 – 37 impact gri 205 anticorruption 2016 33 management approach code  ==>>  Score: 588.2528
+Keyword: source 2022 esg report p 22 – 23 environmental data gri 304 biodiversity 2016 33 management approach 2022 esg report p 12 22 – 23 70 – 71 3042 signifcant impacts  ==>>  Score: 559.2123
+Keyword: excellence ai artifcial intelligence ami area median income api asian pacifc islander awm asset wealth management brgs business resource groups caf carbon assessment framework cao chief administrative ofcer cb commercial banking ccb consumer community banking cct center  ==>>  Score: 521.0007
+Keyword: equal opportunity • human capital development • wagesremunerationgovernance • board govern ance • climate risk • cybersecurity • data privacy • economic performance • enterprise risk management • esg compliance • ethical business practices • geopolitical risk • political engagement public policy  ==>>  Score: 517.7759
+Keyword: liabilities 2022 form 10k p 81 – 84 148 note 2 167 – 187 2023 proxy statement p 41 mortgage finance topic discriminatory lending fnmf270b1 1 number 2 value  ==>>  Score: 516.7255
+Keyword: business 2021 b 2022 b total b cib investment banking 51 39 90 cib markets 66 48 114 development finance total 117 87 204 cumulative development finance progress  ==>>  Score: 510.1540
+Keyword: composition co rporate governance principles 2022 esg report p 51 2023 proxy statement p 5 10 12 – 19 24 – 26 indicator disclosure title source 210 nomination  ==>>  Score: 486.7898
+Keyword: governance ev electric vehicle ewaste electronic waste fmcg fast moving consumer goods fsc forest stewardship council ghg greenhouse gas gmsc global markets sustainability center grec greenbacker renewable energy corporation gri global reporting initiative gss green social  ==>>  Score: 476.5023
+Keyword: deliver spe cifc environmental beneft 2022 esg report p 6 – 10 13 – 17 audit 33 management approach 2022 esg report p 56 70 – 71 fsaudit coverage  ==>>  Score: 476.4716
+Keyword: indirect scope 3 ghg emissions 2022 esg report p 18 – 21 environmental data 3054 ghg emissions intensity 2022 esg report p 18 – 21 environmental data 3055 reduction  ==>>  Score: 469.9855
+Keyword: climate change 2022 form 10k p 8 9 13 14 25 28 2022 esg report p 12 – 16 2022 climate report p 45 – 52 2013 defned beneft plan obligations  ==>>  Score: 466.8309
+Keyword: waste management 0 1 1 green buildings 2 4 6 clean technology 0 4 4 multiple criteria 61 37 98 green total 106 70 176 2022 progress  ==>>  Score: 466.4053
+Keyword: locations indicator disclosure title source gri 412 human rights assessment 2016 33 management approach 2022 esg report p 56 70 – 71 human rights modern slavery act statement supplier code  ==>>  Score: 464.7423
+Keyword: ghg emissions 2022 esg report p 18 – 21 environmental data gri 306 waste 2020 33 management approach 2022 esg report p 22 – 23 3064 waste diverted  ==>>  Score: 449.4605
+Keyword: underwent human rights screening 2022 esg report p 52 56 70 – 71 human rights modern slavery act statement gri 413 local communities 2016 33 management approach code  ==>>  Score: 436.2226
+Keyword: business 2021 b 2022 b 51 17 2 1 70 total b cib investment banking 72 123 cib markets 32 49 commercial banking 1 3 consumer  ==>>  Score: 423.1780
+Keyword: business relationships 2022 esg report p 3 25 – 27 33 – 37 2022 form 10k p 33 44 61 – 80 su ppliers  ==>>  Score: 419.1047
+Keyword: universities iea international energy agency ipo initial public ofering jpm dfi jp morgan development finance institution jpmam jp morgan asset management jre japan renewable energy corporation lihtc low income housing tax credit lmi lowtomoderate income lob line  ==>>  Score: 410.2365
+Keyword: legal proceedings gri indi cator 2 – 27 gri 401 employment 2016 33 management approach 2022 esg report p 43 – 49 careers 4012 benefts provided  ==>>  Score: 407.8316
+Keyword: business 2021 b 2022 b total b cib investment banking 10 6 16 cib markets 3 4 7 commercial banking 14 13 27 consumer  ==>>  Score: 395.0722
+Keyword: ource gri 203 indirect economic impacts 2016 33 management approach 2022 esg report p 24 – 29 30 – 37 impact 2031 infrastructure investments  ==>>  Score: 387.2430
+Keyword: addressing data security risks 2022 form 10k p 7 143 – 144 2022 esg report p 57 – 58 67 introduction environmental social governance appendices list  ==>>  Score: 382.0398
+Keyword: impacts 2022 form 10k p 81 – 84 2022 esg report p 51 2023 proxy statement p 28 – 31 213 delegation  ==>>  Score: 381.5142
+Keyword: locations indicator disclosure title source g ri 302 energy 33 management approach 2022 esg report p 18 – 21 3021 energy consumption within  ==>>  Score: 371.4839
+Keyword: conduct corporate governance principles 2022 esg report p 51 – 56 59 70 – 71 human rights modern slavery act statement 226 mechanisms  ==>>  Score: 359.4077
+Keyword: brokerage activities 2022 esg report p 13 – 16 51 – 52 56 carbon compass sm methodology 68 introduction environmental social governance appendices list  ==>>  Score: 345.1043
+Keyword: gri 201 economic performance 2016 33 management approach 2022 esg report p 24 – 29 30 – 37 impact 2011 direct economic value generated  ==>>  Score: 344.1620
+Keyword: determine remuneration 2023 proxy statement p 32 – 80 221 annual total compensation ratio 2023 proxy statement p 78 222 statement  ==>>  Score: 339.2436
+Keyword: compulsory labor 2016 33 management approach human rights 2022 esg report p 70 – 71 65 introduction environmental social governance appendices list  ==>>  Score: 333.9914
+Keyword: glance 2022 oecd indicators france httpswwwoecdilibraryorgsitese8e7ec93enindexhtmlitemidcontentcomponente8e7ec93en 21 source région îledefrance nd rentrée 2020 la lutte contre le décrochage scolaire continue online available  ==>>  Score: 319.2521
+Keyword: travel among others 27 e mployees 2022 esg report p 39 20 22 form 10k p 2 29 g overnance structure  ==>>  Score: 310.0447
+Keyword: managing impacts 2022 esg report p 14 – 16 40 – 42 47 51 – 52 56 214 role  ==>>  Score: 304.7725
+Keyword: latino3 1 1 2 lowtomoderate income 2 1 3 social bonds 10 7 17 community development total 61 40 102 note totals may  ==>>  Score: 303.5015
+Keyword: httpsjpmorganchasecogcswebcomfnancialinformationsecflings indicator disclosure title source 228 membership associations 2022 esg report p 12 – 14 58 60 external memberships  ==>>  Score: 300.5357
+Keyword: employees 2022 form 10k p 2 2022 esg report p 38 – 42 2023 proxy statement p 12 diversity  ==>>  Score: 293.9101
+Keyword: highest governance body 2023 proxy statement p 27 219 remuneration policies 2023 proxy statement p 32 – 80 220 process  ==>>  Score: 293.3613
+Keyword: legal proceedings gri indicator 2 – 27 note 30 p 283 – 286 66 introduction environmental social governance appendices list  ==>>  Score: 292.9647
+Keyword: credit analysis 2022 esg report p 13 – 16 51 – 52 56 carbon compass sm methodology fncb000b 1 number  ==>>  Score: 292.8170
+Keyword: strategies 2022 esg report p 6 – 10 13 – 16 asset management investment stewardship wealth management sustainable investing fnac410a3 description  ==>>  Score: 286.8655
+Keyword: development programs 2022 esg report p 6 – 10 30 – 49 53 – 54 fs14 initiatives  ==>>  Score: 281.2510
+Keyword: 3 screening 2022 esg report p 6 – 10 13 – 16 asset management sustainable investing fnac410a2 description  ==>>  Score: 278.6737
+Keyword: deliver spe cifc social beneft 2022 esg report p 6 – 10 30 – 49 impact fs8 monetary value  ==>>  Score: 278.1335
+Keyword: conduct 2022 esg report p 6 – 10 30 – 49 70 – 71 impact 4131 operations  ==>>  Score: 273.0410
+Keyword: disposal 2022 esg report p 22 – 23 environmental data gri 307 environmental compliance 2016 3071 noncompliance  ==>>  Score: 268.0023
+Keyword: legal proceedings gri indi cator 2 – 27 gri 206 anticompetitive behavior 2016 33 management approach code  ==>>  Score: 267.3107
+Keyword: parttime employees 2022 esg report p 48 – 49 indicator disclosure title source g ri 404 training  ==>>  Score: 266.2615
+Keyword: eligibility criteria 2021 b 2022 b total b afordable housing 17 15 33 home ownership 31 16 47 black hispanic  ==>>  Score: 263.6323
+Keyword: fve standing committees • public responsibility committee • compensation management development committee • risk committee • audit committee • corporate governance nominating committee  ==>>  Score: 260.6122
+Keyword: loan originators • discriminatory mortgage lending 2022 form 10 – k note 30 p 283 – 286 note  ==>>  Score: 260.0903
+Keyword: sustainability reporting 2022 form 10k p 1 2022 esg report p 3 – 4 23 reporting period frequency  ==>>  Score: 259.5497
+Keyword: c corporate 2022 form 10k note 12 p 225 – 241 consumer finance topic selling practices fncf270a1 percentage  ==>>  Score: 246.0497
+Keyword: supervision 2022 form 10k p 78 metric code metric source commercial banks topic financial inclusion capacity building fncb240a1 1 number  ==>>  Score: 244.9355
+Keyword: conduct 2022 esg report p 57 chase — security center jp morgan — privacy policy 4181 substantiated complaints con cerning breaches  ==>>  Score: 243.2776
+Keyword: stakeholder engagement 2022 esg report p 53 – 54 230 collective bargaining agreements note jpmorgan chase supports employee rights  ==>>  Score: 241.6362
+Keyword: conduct corporate governance principles 2023 proxy statement p 13 – 18 34 – 35 216 communication  ==>>  Score: 239.3122
+Keyword: employees 2022 esg report p 39 topic systemic risk management fncb550a1 fnib550a1 global systemically important bank gsib score  ==>>  Score: 239.1972
+Keyword: finance professionals business principles 2022 esg report p 51 – 52 56 59 human rights 225 processes  ==>>  Score: 235.5415
+Keyword: education 33 management approach 2022 esg report p 38 – 49 57 – 59 4042 programs  ==>>  Score: 235.1830
+Keyword: services 2022 esg report p 6 – 10 13 – 16 client service business principles topic incorporation  ==>>  Score: 228.6032
+Keyword: effluents 2018 33 management approach 2022 esg report p 22 – 23 3033 water withdrawal  ==>>  Score: 227.4675
+Keyword: industry 2022 esg report p 13 – 16 51 – 52 56 fnib410a3 description  ==>>  Score: 226.5542
+Keyword: latino3 14 7 22 lowtomoderate income 17 8 25 small business 2 2 5 black hispanic  ==>>  Score: 225.5593
+Keyword: risk assessment procedures 2022 esg report p 56 70 – 71 active ownership voting policyies applied  ==>>  Score: 224.4498
+Keyword: community development 2022 form 10k p 48 2022 esg report p 33 – 34 fncb240a4 number  ==>>  Score: 223.7659
+Keyword: asian leadership forum new york new york 52 introduction environmental social governance corporate governance esg oversight stakeholder engagement political engagement  ==>>  Score: 223.0280
+Keyword: finance professionals corporate governance principles 2022 esg report 2023 proxy statement weblinks metric code metric source topics  ==>>  Score: 221.7434
+Keyword: multiple sector standards topic business ethics fnac270a2 fnac510a1 fncb510a1 fncf220a2 fncf270a5 fnib510a1 fnib510b3 fnmf270a3 fnmf270b2 total amount  ==>>  Score: 218.9483
+Keyword: conduct corporate governance principles section 54 2023 proxy statement p 36 41 investment banking brokerage topic incorporation  ==>>  Score: 218.3801
+Keyword: men 2022 esg report p 48 gri 406 nondiscrimination 2016 33 management approach code  ==>>  Score: 215.3440
+Keyword: serve pictured community branch little havana miami florida 55 introduction environmental social governance corporate governance esg oversight stakeholder engagement political engagement  ==>>  Score: 214.2731
+Keyword: distributed 2022 esg report p 24 – 29 30 – 37 2012 financial implications  ==>>  Score: 212.1072
+Keyword: fy2021 modern slavery statement 56 introduction environmental social governance corporate governance esg oversight stakeholder engagement political engagement  ==>>  Score: 211.8977
+Keyword: highest governance body 2023 proxy statement p 3 5 22 – 23 212 role  ==>>  Score: 211.7757
+Keyword: community banking 33 18 51 community development total 61 40 102 cumulative community development progress  ==>>  Score: 210.6536
+Keyword: b commercial 2022 form 10k p 66 footnote e 69 introduction environmental social governance appendices list  ==>>  Score: 210.1668
+Keyword: legal proceedings gri indicator 2 – 27 64 introduction environmental social governance appendices list  ==>>  Score: 208.9659
+Keyword: business lines 2022 esg report p56 59 – 60 70 – 71 fs7 monetary value  ==>>  Score: 207.1487
+Keyword: energy consumption 2022 esg report p 18 – 21 environmental data gri 303 water  ==>>  Score: 205.8436
+Keyword: march 9 2023 53 introduction environmental social governance corporate governance esg oversight stakeholder engagement political engagement  ==>>  Score: 203.2497
+Keyword: category 2022 form 10k p 90 banking organization systemic risk report fr y15 fncb550a2 fnib550a2 description  ==>>  Score: 201.5487
+Keyword: cer “ cro ” chief financial ofcer “ cfo ” general counsel ceos  ==>>  Score: 200.9194
+Keyword: information 20 22 esg report p 8 footnote 1 1 25 e xternal assurance note  ==>>  Score: 199.3042
+Keyword: social risks 56 human rights 56 data privacy cybersecurity 57 business ethics 59 appendices 61 list  ==>>  Score: 197.3629
+Keyword: inclusion 38 human capital 43 governance 50 corporate governance esg oversight 51 stakeholder engagement 53 political engagement  ==>>  Score: 194.9376
+Keyword: eligibility criteria 2021 b2 2022 b total b sustainable transportation 22 2 24 renew able  ==>>  Score: 193.4739
+Keyword: retirement plans 2022 form 10k p 212 – 214 indicator disclosure title  ==>>  Score: 191.2803
+Keyword: transition assistance programs 2022 esg report p 31 – 32 45 – 46 4043 percentage  ==>>  Score: 187.0199
+Keyword: improve supplier diversity see page 33 60 introduction environmental social governance corporate governance esg oversight stakeholder engagement political engagement  ==>>  Score: 185.5857
+Keyword: sustainable devel opment strategy 2022 esg report p 2 63 introduction environmental social governance appendices list  ==>>  Score: 185.0655
+Keyword: 660 2022 form 10k note 12 p 225 – 241 fnmf270b3 description  ==>>  Score: 184.6133
+Keyword: material topics 2022 esg report p 5 65 33 management approach note management  ==>>  Score: 179.5319
+Keyword: financial professionals corporate governance principles 2022 esg report p 59 – 60 2052 communication  ==>>  Score: 178.2489
+Keyword: enables benefcial datadriven innovation 57 introduction environmental social governance corporate governance esg oversight stakeholder engagement political engagement  ==>>  Score: 178.0140
+Keyword: vulnerable communities 6 source dealogic sustainable finance report syndicated bonds loans equity full year 2022 note  ==>>  Score: 177.7228
+Keyword: electric cooperative sector 1 source dealogic quarterly rankings ib revenue full year 2022 7 introduction message  ==>>  Score: 174.6804
+Keyword: business activities 2022 form 10k p 86 – 96 asset management custody activities topic transparent information fair advice  ==>>  Score: 174.6440
+Keyword: highest governance body 2023 proxy statement p 20 – 21 211 chair  ==>>  Score: 174.6275
+Keyword: organization 2022 esg report p 18 – 21 environmental data 3024 reduction  ==>>  Score: 173.9059
+Keyword: corporate functions include real estate technology legal corporate finance human resources internal audit risk management compliance control management corporate responsibility  ==>>  Score: 169.3763
+Keyword: directors 26 0 9 033 25 senior level employees represents employees  ==>>  Score: 168.6636
+Keyword: voting proxy information indicator disclosure title source g ri 417 marketing  ==>>  Score: 167.1659
+Keyword: esg feature 25t sustainable development target environmental social governance appendices consumer community banking ccb ofers products  ==>>  Score: 165.5129
+Keyword: honeybees 54 introduction environmental social governance corporate governance esg oversight stakeholder engagement political engagement  ==>>  Score: 165.4354
+Keyword: labeling 2016 33 management approach 2022 esg report p 60 note fair  ==>>  Score: 161.4979
+Keyword: bsimim 58 introduction environmental social governance corporate governance esg oversight stakeholder engagement political engagement  ==>>  Score: 160.7021
+Keyword: conduct 2022 esg report p 38 – 42 59 human rights diversity  ==>>  Score: 160.1129
+Keyword: ethical conduct 59 introduction environmental social governance corporate governance esg oversight stakeholder engagement political engagement  ==>>  Score: 159.8604
+Keyword: monopoly practices 2022 form 10k note 30 p 283 – 286 refer  ==>>  Score: 157.1171
+Keyword: operating committee global gender data29 total employees men 51 women 49 board  ==>>  Score: 155.8229
+Keyword: “ multiple criteria ” total 37b23b green bonds 11b sustainability bonds 3b emissions contracts 1b  ==>>  Score: 153.5634
+Keyword: forge meaningful progress jamie dimon chairman ceo jpmorgan chase co april 2023 2 introduction message  ==>>  Score: 152.8653
+Keyword: 600 fel lows across seven us cities — new york city chicago los angeles dallas houston oakland  ==>>  Score: 150.2967
+Keyword: key esg topics environmental • climate change • climate policy engagement • operational environmental footprint • responsible investment  ==>>  Score: 148.9810
+Keyword: national rural utilities cooperative finance corporation “ cfc ” provides  ==>>  Score: 148.9705
+Keyword: regulations 2022 form 10k note 30 p 283 – 286 note  ==>>  Score: 148.5466
+Keyword: directors 51 introduction environmental social governance corporate governance esg oversight stakeholder engagement political engagement  ==>>  Score: 148.2196
+Keyword: actions taken 2022 form 10k note 30 p 283 – 286 refer  ==>>  Score: 148.1498
+Keyword: conduct 2022 esg report p 51 – 52 4191 noncompliance  ==>>  Score: 147.7506
+Keyword: conduct 2022 esg report p 59 topic data security fncb230a2 fncf230a3 description  ==>>  Score: 146.7830
+Keyword: include • equator principles • international finance corporation performance standards including performance standard 7  ==>>  Score: 146.1684
+Keyword: finance professionals 2022 esg report p 59 – 60 confict  ==>>  Score: 144.4019
+Keyword: regulations 2022 form 10k note 30 p 283 – 286 refer  ==>>  Score: 143.9910
+Keyword: esg report gri 418 customer privacy 2016 33 management approach code  ==>>  Score: 143.0727
+Keyword: chief executive ofcer “ ceo ” chief risk  ==>>  Score: 142.8530
+Keyword: esg feature 25t sustainable development target environmental social governance appendices feature 25t sustainable development target  ==>>  Score: 141.6498
+Keyword: acronyms 62 global reporting initiative index 63 sustainability accounting standards board index 67 prohibited activities  ==>>  Score: 141.3268
+Keyword: community banking 1 2 green total 106 176 cumulative green progress  ==>>  Score: 140.3005
+Keyword: year ended december 31 2022 source key 2022 form 10k 2022 climate report code  ==>>  Score: 139.9413
+Keyword: ensur ing nondiscriminatory mortgage origination fair lending overview topic activity metrics fnmf000a 1 number  ==>>  Score: 138.5408
+Keyword: returning customers • fraud insider trading antitrust anticompet itive behavior market manipulation malprac tice  ==>>  Score: 136.5939
+Keyword: determine material topics 2022 esg report p 5 32 list  ==>>  Score: 136.2838
+Keyword: conduct 2022 esg report p 59 – 60 2061 legal actions  ==>>  Score: 135.4306
+Keyword: seventh annual employee appreciation week new york new york 47 introduction environmental social feature  ==>>  Score: 135.4195
+Keyword: corporate investment bank “ cib ” commercial banking “ cb ”  ==>>  Score: 134.1469
+Keyword: equal opportunity human rights assessment local communi ties public policy product portfolio audit active ownership marketing  ==>>  Score: 134.0150
+Keyword: wealth management asset management ofers multiasset investment management solu tions across equities fxed income alternatives  ==>>  Score: 133.9097
+Keyword: green bond principles sustainability linked loan principles social sustainable sustainability linked bond principles etc • taskforce  ==>>  Score: 133.6254
+Keyword: banking help 1 million customers open lowcost checking accounts 406495 na open 14 community center branches  ==>>  Score: 131.8508
+Keyword: clean energy 15 20 35 water management 6 2 8 circular economy  ==>>  Score: 131.5800
+Keyword: career development reviews 2022 esg report p 45 gri 405 diversity  ==>>  Score: 131.2297
+Keyword: business asset management custody activities commercial banks consumer finance investment banking brokerage  ==>>  Score: 130.7203
+Keyword: sec flings gri 419 socioeconomic compliance 2016 33 management approach code  ==>>  Score: 129.3871
+Keyword: cybersecurity 47 industry best practices include isaca cobit iso 27000 standards ffiec guidance  ==>>  Score: 128.6145
+Keyword: private investment funds commercial banking cb provides comprehensive fnancial solutions including lending payments invest ment banking  ==>>  Score: 128.5250
+Keyword: esg 5 feat ure 25t sustainable development target 6 environment 11  ==>>  Score: 128.2305
+Keyword: highest governance body 2023 proxy statement p 27 218 evaluation  ==>>  Score: 128.0802
+Keyword: esg feature 25t sustainable development target environmental social governance appendices development finance  ==>>  Score: 127.4704
+Keyword: industry 2022 form 10k p 192 – 193 fncb410a2 description  ==>>  Score: 127.3279
+Keyword: finance professionals corporate governance principles environmental data 2022 esg report hum  ==>>  Score: 127.2106
+Keyword: environmental sustainability 12 scaling green solutions 13 meeting needs responsibly 17 minimizing  ==>>  Score: 127.2023
+Keyword: 10year green target 176b 18 since 2021 1t  ==>>  Score: 126.6881
+Keyword: procedures 2022 esg report p 59 – 60 note employees  ==>>  Score: 126.3155
+Keyword: asset management products across three primary client seg ments middle market banking corporate client banking  ==>>  Score: 126.1620
+Keyword: social risks human rights data privacy cybersecurity business ethics appendices cybersecurity jpmorgan chase experiences numerous cyberattacks  ==>>  Score: 126.0874
+Keyword: conduct 2022 esg report p 38 – 42 diversity  ==>>  Score: 124.8448
+Keyword: nonproft clients corporate client banking covers large corporations commercial real estate banking covers investors developers  ==>>  Score: 124.6400
+Keyword: achieve operational carbon neutrality 5 11 5 operational carbon neutrality achieved using carbon credits  ==>>  Score: 123.9836
+Keyword: contact point 2022 esg report p 4 note reporting frequency  ==>>  Score: 123.9094
+Keyword: global markets sustainability center “ gmsc ” provides sus tainability solutions across asset classes  ==>>  Score: 121.2434
+Keyword: key esg topics economic performance indirect economic impacts anticorruption anticompetitive behavior energy water  ==>>  Score: 120.6644
+Keyword: sustainable palm oil sasb sustainability accounting standards board sdgs united nations sustainable development goals sec us securities  ==>>  Score: 120.3224
+Keyword: locations indicator disclosure title source 223 policy commitments code  ==>>  Score: 120.1310
+Keyword: management aum 2022 form 10k p 78 fnac000b total assets  ==>>  Score: 119.7591
+Keyword: world bank environmental health safety guidelines • relevant international capital markets association loan market association principles  ==>>  Score: 117.7374
+Keyword: social risks human rights data privacy cybersecurity business ethics appendices data privacy cybersecurity  ==>>  Score: 117.5043
+Keyword: firms 2022 leadership day new york new york 38 introduction environmental social feature  ==>>  Score: 116.9459
+Keyword: sexual orientation color national origin religion age marital sta tus disability familial status  ==>>  Score: 115.9836
+Keyword: lowcarbon economy social • consumer financial protection • community development • diversity equity inclusion  ==>>  Score: 115.8563
+Keyword: esg feature 25t sustainable development target environmental social governance appendices community development  ==>>  Score: 115.7589
+Keyword: community development financial institutions “ cdfis ” na 2106 inve st 100 million  ==>>  Score: 115.6360
+Keyword: energy efcient homes pictured rancho cucamonga california 37 introduction environmental social feature  ==>>  Score: 115.6066
+Keyword: engineered removal proj ects including improved forest management grassland restoration blue carbon  ==>>  Score: 113.3128
+Keyword: social risks human rights data privacy cybersecurity business ethics appendices political engagement  ==>>  Score: 113.2236
+Keyword: social risks human rights data privacy cybersecurity business ethics appendices financial crimes  ==>>  Score: 112.7701
+Keyword: social risks human rights data privacy cybersecurity business ethics appendices stakeholder engagement  ==>>  Score: 112.3986
+Keyword: preservation funds na 1387 increase low income housing tax credit “ lihtc ” investments  ==>>  Score: 112.0375
+Keyword: social eacs energy attribute certifcates eeo equal employment opportunity esg environmental social  ==>>  Score: 112.0274
+Keyword: year ended december 31 2022 form 10kbusiness principles exceptional client service 1 focus  ==>>  Score: 110.9468
+Keyword: wood frame modular design lowcarbon concrete enhanced insulation rooftop solar arrays full electrifcation  ==>>  Score: 110.9206
+Keyword: esg feature 25t sustainable development target environmental social governance appendices progress toward  ==>>  Score: 110.3156
+Keyword: joint placement agent global markets sustainability center within cib markets  ==>>  Score: 109.9975
+Keyword: 10 ° c 70 introduction environmental social governance appendices list  ==>>  Score: 109.0541
+Keyword: fnancial reporting period contact points sustainability inv estor relations 24 r estatements  ==>>  Score: 108.8760
+Keyword: underserved customers 2022 esg report p 36 topic incorporation  ==>>  Score: 108.7473
+Keyword: enhanced parental leave globally pictured dallas texas 49 introduction environmental social feature  ==>>  Score: 108.5195
+Keyword: chief administrative ofce “ cao ” provides multiple global services  ==>>  Score: 107.0198
+Keyword: overdraft fees 146 community managers hired 13 community center branches opened 76 branches opened  ==>>  Score: 106.5912
+Keyword: esg feature 25t sustainable development target environmental social governance appendices green  ==>>  Score: 105.8963
+Keyword: social risks human rights data privacy cybersecurity business ethics appendices stakeholder group  ==>>  Score: 105.8486
+Keyword: include fast moving consumer goods “ fmcg ” manufacturers  ==>>  Score: 105.7255
