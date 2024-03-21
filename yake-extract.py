@@ -20,7 +20,7 @@ def extract_top_keywords_yake(text):
     deduplication_thresold = 0.9
     deduplication_algo = 'seqm'
     windowSize = 1
-    numOfKeywords = 200
+    numOfKeywords = 10
     
     custom_kw_extractor = yake.KeywordExtractor(lan=language, n=max_ngram_size, dedupLim=deduplication_thresold, dedupFunc=deduplication_algo, windowsSize=windowSize, top=numOfKeywords, features=None)
     keywords = custom_kw_extractor.extract_keywords(text)
@@ -28,7 +28,7 @@ def extract_top_keywords_yake(text):
 
 # Main function
 def main():
-    input_file_path = "EnvironmentalReport.txt"
+    input_file_path = "./summery-from-pdf/GPT_4_Alphabet Inc. (Google) - Alphabet-Sustainability-Bond-Framework-Second-Party-Opinion.txt"
     output_file_path = "./keywords/yake-keywords.txt"
     text = read_text_file(input_file_path)
     preprocessed_text = preprocess_text(text)

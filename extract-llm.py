@@ -17,21 +17,31 @@ def read_text_file(file_path):
 
 # Define the function to generate keywords using GPT-3.5
 def generate_keywords(text):
-    prompt = "Extract the top 20 keywords from the text file based on keyword score. Keyword MUST BE A SINGLE WORD. The Text File is: \n\n" + text
+    messages = []
+    messages.append({
+        "role": "system",
+        "content": "You are a summarizer. Your can summarize long texts into short ones. The file what you need to summarize is: \n\n" + text
+    })
+    messages.append({
+        "role": "user",
+        "content": "Summarize the text file."
+    })
     response = client.chat.completions.create(
         model="gpt-4-1106-preview",
-        messages=[
-            {"role": "system", "content": "YOU ARE A KEYWORD EXTRACTION EXPERT FROM LARGE TEXT DATA."},
-            {"role": "user", "content": prompt},
-        ],
+        messages=messages,
         temperature = 0.0
     )
     response_message = response.choices[0].message.content
-    print(response_message )
+    return response_message
 
 
 if __name__ == "__main__":
-    input_file_path = "EnvironmentalReport.txt"
-    output_file_path = "./keywords/nltk-keywords.txt"
+    file_name = "Alphabet Inc. (Google) - Alphabet-Sustainability-Bond-Framework-Second-Party-Opinion"
+
+    input_file_path = f"./text-from-html/{file_name}.txt"
+    output_file_path = f"./summery-from-html/GPT_4_{file_name}.txt"
+
     pdf_text = read_text_file(input_file_path)
-    generate_keywords(pdf_text)
+    summary = generate_keywords(pdf_text)
+    with open(output_file_path, 'w', encoding='utf-8') as file:
+        file.write(summary)
